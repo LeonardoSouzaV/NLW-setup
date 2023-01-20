@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um projeto para rastgrear os hábitos do dia a dia.
+O Habits é um projeto para rastrear os hábitos do dia a dia.
 
 - [Visite o projeto online] (https://LeonardoSouzaV.github.io/NLW-setup/)
 
